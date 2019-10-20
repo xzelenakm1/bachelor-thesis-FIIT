@@ -1,1 +1,1 @@
-# bachelorThesisFIIT
+# bachelor-thesis-FIIT
